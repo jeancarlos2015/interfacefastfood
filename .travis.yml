@@ -6,5 +6,5 @@ jdk:
 deploy:
  provider: heroku
  api-key:
-  secure: $API_TOKEN
+  secure: $APP_KEY
  app: interfacefastfood
