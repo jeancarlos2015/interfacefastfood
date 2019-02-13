@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: interfacesistexgerente
+Bundle-SymbolicName: interfacesistexgerente
+Bundle-Version: 1.0.0.qualifier
+Export-Package: com.hellokoding.auth,
+ com.hellokoding.auth.model,
+ com.hellokoding.auth.repository,
+ com.hellokoding.auth.service,
+ com.hellokoding.auth.validator,
+ com.hellokoding.auth.web
+Require-Bundle: org.aspectj.runtime
